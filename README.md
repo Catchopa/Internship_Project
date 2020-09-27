@@ -1,6 +1,8 @@
 # Internship_Project
 Developed with html5, css3, javascript (bootstrap). Web development
 
+
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
