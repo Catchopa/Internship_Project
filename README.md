@@ -1,7 +1,7 @@
 # Internship_Project
 Developed with html5, css3, javascript (bootstrap). Web development
 
-
+![index](https://github.com/Catchopa/Internship_Project/blob/master/screenshots/index.png)
 
 ## Installation
 
