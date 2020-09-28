@@ -1,13 +1,6 @@
 
 <h3 align="center">Internship Project</h3>
 
-<div align="center">
-
-  [![Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]() 
-
-
-</div>
-
 ---
 
 
