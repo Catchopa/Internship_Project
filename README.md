@@ -20,6 +20,7 @@
 
 ## 📝 Table of Contents
 - [About](#about)
+- [Why?](#why)
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
 - [Usage](#usage)
@@ -35,6 +36,8 @@
 
 
 This project was developed at 2Play+. The main objectives for the website are: the exposure of the company's portfolio and the promotion of its products. In the creation of the website, the languages used whare HTML, CSS and Bootstrap and the software's Adobe Illustrator, Photoshop, Animate and XD.
+
+## :interrobang: Why? <a name = "why"></a>
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
