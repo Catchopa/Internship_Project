@@ -32,13 +32,13 @@ This project was developed at 2Play+. The main objectives for the website are: t
 
 ## :interrobang: Why? <a name = "why"></a>
 
-This project is part of my personal portfolio, and I would love to hear any feedback of How could I do better, code, structure that you couls report that could make me improve as a developer
+This project is part of my personal portfolio, and I would love to hear any feedback of how could I do better, code, structure that you could report that will make me improve as a developer.
 
 Email me: josoficachopo@hotmail.com
 
 Connect with me at LinkedIn.
 
-Check out my other portfolios I would realy apreciate our opinion: https://www.behance.net/joanacachopo
+Check out my other portfolio I would really apreciate our opinion: https://www.behance.net/joanacachopo
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
