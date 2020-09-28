@@ -34,7 +34,7 @@ This project was developed at 2Play+. The main objectives for the website are: t
 
 This project is part of my personal portfolio, and I would love to hear any feedback of How could I do better, code, structure that you couls report that could make me improve as a developer
 
-Email me: josodicachopo@hotmail.com
+Email me: josoficachopo@hotmail.com
 
 Connect with me at LinkedIn.
 
