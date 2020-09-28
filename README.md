@@ -21,14 +21,7 @@
 ## 📝 Table of Contents
 - [About](#about)
 - [Why?](#why)
-- [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -39,21 +32,20 @@ This project was developed at 2Play+. The main objectives for the website are: t
 
 ## :interrobang: Why? <a name = "why"></a>
 
+This project is part of my personal portfolio, and I would love to hear any feedback of How could I do better, code, structure that you couls report that could make me improve as a developer
+
+Email me: josodicachopo@hotmail.com
+
+Connect with me at LinkedIn.
+
+Check out my other portfolios I would realy apreciate our opinion: https://www.behance.net/joanacachopo
+
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- Adobe XD - prototyping
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- Adobe Collection (XD, Illustrator, Animate, Photoshop) 
+- HTML, CSS and Bootstrap (MDB)
 
-## ✍️ Authors <a name = "authors"></a>
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
 
 
